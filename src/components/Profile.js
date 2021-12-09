@@ -10,7 +10,7 @@ import mail from '../images/mail.png'
 const Profile = () => {
     return (
         <div className="profile_par">
-            {/* trai' */}
+            {/* ben trai' */}
             <div className="profile_text">
                 <div style={{ display: 'flex', flexDirection: 'row' }}>
                     {/* profile_text left */}
