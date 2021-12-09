@@ -46,7 +46,7 @@ const Profile = () => {
                             </div>
                         </div>
                          {/* school */}
-                         <div className='profile_experience'>
+                         <div className='profile_contact'>
                             <div className='experience_title'>Học vấn</div>
                             <div>
                                 <div className='experience_decreption font_bold'>• Lập trình máy tính l  08/2019 - 12/2021</div>
@@ -55,7 +55,7 @@ const Profile = () => {
                             </div>
                         </div>
                         {/* chill chill :) */}
-                        <div className='profile_experience'>
+                        <div className='profile_contact'>
                             <div className='experience_title'>Sở thích</div>
                             <div>
                                 <div className='experience_decreption'>- Đá bóng .</div>

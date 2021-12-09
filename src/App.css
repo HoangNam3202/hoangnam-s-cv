@@ -94,8 +94,19 @@ body {
 }
 .profile_contact, .profile_experience{
   margin-top: 20px;
-  margin-left: 10px;
+  margin-left: 15px;
   width: 47vh;
+  animation-name: profileText;
+  animation-duration: 1s;
+  animation-timing-function: linear;
+}
+.profile_experience{
+  animation-name: profileText;
+  animation-duration: 0.8s !important;
+}
+@keyframes profileText {
+  from {margin-left: -250px;}
+  to {margin-left: 15px;}
 }
 .contact_title, .experience_title{
   font-size: 3.5vh;
