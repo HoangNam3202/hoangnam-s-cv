@@ -107,7 +107,7 @@ const Profile = () => {
                     </div>
                 </div>
             </div>
-            {/* phai */}
+            {/* ben phai */}
             <div className="profile_image">
                 <div className="test">
                     <img className="img" src={hinh}></img>
