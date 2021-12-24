@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/hoangnam-s-cv/static/css/main.09c4ed2d.chunk.css",
+    "main.css": "/hoangnam-s-cv/static/css/main.89013ea6.chunk.css",
     "main.js": "/hoangnam-s-cv/static/js/main.b78e8c2c.chunk.js",
     "main.js.map": "/hoangnam-s-cv/static/js/main.b78e8c2c.chunk.js.map",
     "runtime-main.js": "/hoangnam-s-cv/static/js/runtime-main.98137a71.js",
@@ -8,14 +8,14 @@
     "static/js/2.e4ffbd89.chunk.js": "/hoangnam-s-cv/static/js/2.e4ffbd89.chunk.js",
     "static/js/2.e4ffbd89.chunk.js.map": "/hoangnam-s-cv/static/js/2.e4ffbd89.chunk.js.map",
     "index.html": "/hoangnam-s-cv/index.html",
-    "static/css/main.09c4ed2d.chunk.css.map": "/hoangnam-s-cv/static/css/main.09c4ed2d.chunk.css.map",
+    "static/css/main.89013ea6.chunk.css.map": "/hoangnam-s-cv/static/css/main.89013ea6.chunk.css.map",
     "static/js/2.e4ffbd89.chunk.js.LICENSE.txt": "/hoangnam-s-cv/static/js/2.e4ffbd89.chunk.js.LICENSE.txt",
     "static/media/nam.3057ec85.jpg": "/hoangnam-s-cv/static/media/nam.3057ec85.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.98137a71.js",
     "static/js/2.e4ffbd89.chunk.js",
-    "static/css/main.09c4ed2d.chunk.css",
+    "static/css/main.89013ea6.chunk.css",
     "static/js/main.b78e8c2c.chunk.js"
   ]
 }
