@@ -12,7 +12,7 @@ const Profile = () => {
         <div className="profile_par">
             {/* ben trai' */}
             <div className="profile_text">
-                <div style={{ display: 'flex', flexDirection: 'row' }}>
+                <div style={{ display: 'flex', flexDirection: 'row' ,flexWrap:'wrap'}}>
                     {/* profile_text left */}
                     <div>
                         {/* contact */}
@@ -65,14 +65,14 @@ const Profile = () => {
                         </div>
                     </div>
                     {/* profile_text right */}
-                    <div style={{ marginLeft: 10 }}>
+                    <div>
                         {/* skill */}
                         <div className='profile_experience'>
                             <div className='experience_title'>Kỹ năng</div>
                             <div>
                                 <div className='experience_decreption font_bold'>• Lập trình</div>
                                 <div className='experience_decreption'>Sử dụng thành thạo các ngôn ngữ lập trình:
-                                    <br />- Front-end : ReactJS, React-Native, HTML, CSS .
+                                    <br />- Front-end : ReactJS, React-Native, HTML, CSS, Javascript .
                                     <br />- Back-end : NodeJS , SQL và Database, Restful Api</div>
                             </div>
                             <div>
@@ -90,7 +90,7 @@ const Profile = () => {
                         </div>
                         
                         {/* experience */}
-                        <div className='profile_experience'>
+                        <div className='profile_experience profile_animation_ex'>
                             <div className='experience_title'>Kinh nghiệm làm việc</div>
                             <div>
                                 <div className='experience_decreption font_bold'>• Lập trình viên website/app . l  07/2021 - 12/2021</div>

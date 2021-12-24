@@ -4,6 +4,8 @@ import { createStore } from "redux";
 import { Provider } from "react-redux";
 
 import App from "./App";
+import Test from "./components/Test";
+import MoneyBorrow from "./components/MoneyBorrow";
 import Profile from "./components/Profile";
 import allReducers from "./store/reducers/index";
 
